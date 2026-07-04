@@ -19,6 +19,6 @@ Snake Game in Cyber
 
 ***
 
-🌐 برنامه وبسایت: https://sadra-hatami.github.io/Mathematics_Toolbox/
+🌐 وبسایت برنامه: https://sadra-hatami.github.io/Mathematics_Toolbox/
 
-📧 برنامه سازنده ایمیل: sadra.hatami.1732@gmail.com
+📧 ایمیل سازنده برنامه: sadra.hatami.1732@gmail.com
