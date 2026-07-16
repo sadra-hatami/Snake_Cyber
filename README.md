@@ -53,6 +53,10 @@ The project focuses on delivering a modern gameplay experience while preserving 
 * 💾 Automatic high-score saving
 * 🎨 Smooth animations
 * 🌐 Play directly in the browser
+* 💻 Optimized for desktop and laptop devices
+* 📱 Fully playable on mobile devices
+* 👆 Touch & swipe controls
+* ⌨️ Keyboard controls (Arrow Keys & WASD)
 
 ---
 
