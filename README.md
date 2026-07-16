@@ -14,11 +14,12 @@ A modern browser-based Snake game featuring a futuristic cyberpunk interface, sm
 
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Responsive](https://img.shields.io/badge/Mobile-Friendly-success?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge\&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![Cross Platform](https://img.shields.io/badge/Cross--Platform-Desktop%20%7C%20Laptop%20%7C%20Mobile-6f42c1?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
 
 <br>
 
